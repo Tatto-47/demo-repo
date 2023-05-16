@@ -7,6 +7,8 @@
  */
 public class ProgrammePrincipal {
     public static void main(String[] args) {
+        
+        // Ccreation d'un objet Employe
 
        //this is a test
     }
