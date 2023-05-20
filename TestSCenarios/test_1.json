@@ -1,0 +1,36 @@
+{
+  "matricule_employe": 232425262,
+  "type_employe": 0,
+  "taux_horaire_min": "23.42 $",
+  "taux_horaire_max": "80.07 $",
+  "interventions": [
+    {
+      "code_client": "B730",
+      "distance_deplacement": 7,
+      "overtime": 3,
+      "nombre_heures": 5,
+      "date_intervention": "2023-05-20"
+    },
+    {
+      "code_client": "A510",
+      "distance_deplacement": 3,
+      "overtime": 5,
+      "nombre_heures": 7,
+      "date_intervention": "2023-02-11"
+    },
+    {
+      "code_client": "D890",
+      "distance_deplacement": 11,
+      "overtime": 0,
+      "nombre_heures": 20,
+      "date_intervention": "2023-03-15"
+    },
+    {
+      "code_client ": "C123",
+      "distance_deplacement": 3,
+      "overtime": 13,
+      " nombre_heures": 20,
+      "date_intervention": "2023-04-1"
+    }
+  ]
+}

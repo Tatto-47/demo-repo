@@ -1,0 +1,15 @@
+{
+  "matricule_employe": 321987,
+  "type_employe": 1,
+  "taux_horaire_min": 56.7,
+  "taux_horaire_max": 98.43,
+  "interventions": [
+    {
+      "code_client": "A456",
+      "distance_deplacement": 9,
+      "overtime": 0,
+      "nombre_heures": 2,
+      "date_intervention": "2023-06-20"
+    }
+  ]
+}

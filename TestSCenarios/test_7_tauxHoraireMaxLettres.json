@@ -1,0 +1,36 @@
+{
+  "matricule_employe": 11111111,
+  "type_employe": 1,
+  "taux_horaire_min": "25.90 $",
+  "taux_horaire_max": "eee $",
+  "interventions": [
+    {
+      "code_client": "A456",
+      "distance_deplacement": 12,
+      "overtime": 6,
+      "nombre_heures": 1,
+      "date_intervention": "2023-06-20"
+    },
+    {
+      "code_client": "B777",
+      "distance_deplacement": 3,
+      "overtime": 9,
+      "nombre_heures": 22,
+      "date_intervention": "2023-02-11"
+    },
+    {
+      "code_client": "Z111",
+      "distance_deplacement": 5,
+      "overtime": 8,
+      "nombre_heures": 51,
+      "date_intervention": "2023-07-19"
+    },
+    {
+      "code_client ": "Q680",
+      "distance_deplacement": 8,
+      "overtime": 2,
+      " nombre_heures": 13,
+      "date_intervention": "2023-08-11"
+    }
+  ]
+}
